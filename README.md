@@ -5,6 +5,7 @@
 # # Google-Project-Management-Professinal <img src="https://github.com/mesbahiba/Google-Analytics-Professional/blob/main/Google.png" align="right" width="120" />
 
 ## 📍 About this Professional Certificate
+
 In this professional certification designed by Google offered on Coursera, I---
 Gained an immersive understanding of the practices and skills needed to succeed in an entry-level project management role
 
@@ -24,6 +25,7 @@ Practiced strategic communication, problem-solving, and stakeholder management t
 There are 6 Courses in this Professional Certificate Specialization as follows:
  
  - [x] [__Foundations of Project Management__]
+ 
  This course is the first in a series of six to equip you with the skills you need to apply to introductory-level roles in project management. Project managers play a key role in leading, planning and implementing critical projects to help their organizations succeed. In this course, you’ll discover foundational project management terminology and gain a deeper understanding of  the role and responsibilities of a project manager. We’ll also introduce you to the kinds of jobs you might pursue after completing this program. Throughout the program, you’ll learn from current Google project managers, who can provide you with a multi-dimensional educational experience that will help you build your skills  for on-the-job application. 
 
 Learners who complete this program should be equipped to apply for introductory-level jobs as project managers. No previous experience is necessary.
@@ -59,6 +61,7 @@ By the end of this course, you will be able to:
 - Evaluate various project management tools to meet project needs.
  
   - [x] [__Project Planning: Putting It All Together__]
+ 
  This is the third course in the Google Project Management Certificate program. This course will explore how to map out a project in the second phase of the project life cycle: the project planning phase. You will examine the key components of a project plan, how to make accurate time estimates, and how to set milestones. Next, you will learn how to build and manage a budget and how the procurement processes work. Then, you will discover tools that can help you identify and manage different types of risk and how to use a risk management plan to communicate and resolve risks. Finally, you will explore how to draft and manage a communication plan and how to organize project documentation. Current Google project managers will continue to instruct and provide you with hands-on approaches for accomplishing these tasks while showing you the best project management tools and resources for the job at hand.
 
 Learners who complete this program should be equipped to apply for introductory-level jobs as project managers. No previous experience is necessary.
@@ -77,6 +80,7 @@ By the end of this course, you will be able to:
 
  
  - [x] [__Project Execution: Running the Project__]
+ 
 This is the fourth course in the Google Project Management Certificate program. This course will delve into the execution and closing phases of the project life cycle. You will learn what aspects of a project to track and how to track them. You will also learn how to effectively manage and communicate changes, dependencies, and risks. As you explore quality management, you will learn how to measure customer satisfaction and implement continuous improvement and process improvement techniques. Next, you will examine how to prioritize data, how to use data to inform your decision-making, and how to effectively present that data. Then, you will strengthen your leadership skills as you study the stages of team development and how to manage team dynamics. After that, you will discover tools that provide effective project team communication, how to organize and facilitate meetings, and how to effectively communicate project status updates. Finally, you will examine the steps of the project closing process and how to create and share project closing documentation. Current Google project managers will continue to instruct and provide you with hands-on approaches for accomplishing these tasks while showing you the best project management tools and resources for the job at hand.
 
 Learners who complete this program should be equipped to apply for introductory-level jobs as project managers. No previous experience is necessary.
@@ -92,6 +96,7 @@ By the end of this course, you will be able to:
  - Describe the steps of the closing process for stakeholders, the project team, and project managers.
  
  - [x] [__Agile Project Management__]
+ 
 This is the fifth course in the Google Project Management Certificate program. This course will explore the history, approach, and philosophy of Agile project management, including the Scrum framework. You will learn how to differentiate and blend Agile and other project management approaches. As you progress through the course, you will learn more about Scrum, exploring its pillars and values and comparing essential Scrum team roles. You will discover how to build, manage, and refine a product backlog, implement Agile’s value-driven delivery strategies, and define a value roadmap. You will also learn strategies to effectively organize the five important Scrum events for a Scrum team, introduce an Agile or Scrum approach to an organization, and coach an Agile team. Finally, you will learn how to search for and land opportunities in Agile roles. Current Google project managers will continue to instruct and provide you with the hands-on approaches, tools, and resources to meet your goals.
 
 Learners who complete this program should be equipped to apply for introductory-level jobs as project managers. No previous experience is necessary.
@@ -107,6 +112,7 @@ By the end of this course, you will be able to:
  - Conduct a job search for an Agile role and learn how to succeed in your interview.
  
  - [x] [__Capstone: Applying Project Management in the Real World__]
+ 
 In this final, capstone course of the Google Project Management Certificate, you will practice applying the project management knowledge and skills you have learned so far. We encourage learners to complete Courses 1-5 before beginning the final course, as they provide the foundation necessary to complete the activities in this course. 
 
 As you progress through this course, you will “observe” a project manager in a real-world scenario and complete dozens of hands-on activities. You will:
